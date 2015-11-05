@@ -1,0 +1,17 @@
+alienvault-rhythm (5.2.0-0) stable; urgency=low
+
+  * New release
+
+ -- AlienVault ENG Team <debian-devel@alienvault.com>  Thu, 17 Sep 2015 04:39:32 -0400
+
+alienvault-rhythm (5.2-1) unstable; urgency=low
+
+  * New release
+
+ -- AlienVault ENG Team <debian-devel@alienvault.com>  Tue, 30 Jun 2015 04:30:53 -0400
+
+alienvault-rhythm (5.1-1) unstable; urgency=low
+
+  * New release
+
+ -- AlienVault package developers <debian-devel@alienvault.com>  Wed, 13 May 2015 10:20:33 +0100

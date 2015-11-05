@@ -1,0 +1,2 @@
+alienvault-openvas-feed/scap-data-openvas6.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+alienvault-openvas8-feed/scap-data-latest.tar.bz2 filter=lfs diff=lfs merge=lfs -text
